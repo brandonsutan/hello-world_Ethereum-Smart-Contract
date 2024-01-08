@@ -72,7 +72,7 @@ To run the smart contract locally and interact with it:
    ```sh
    node scripts/interact.js
 ## Project Images
-![](relative/path/in/repository/to/image.svg)
+![Command-line Output](img/Screenshot 2024-01-07 230653.png)
 ![image description](relative/path/in/repository/to/image.svg)
 ![image description](relative/path/in/repository/to/image.svg)
 ![image description](relative/path/in/repository/to/image.svg)
