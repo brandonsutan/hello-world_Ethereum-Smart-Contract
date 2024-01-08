@@ -72,10 +72,10 @@ To run the smart contract locally and interact with it:
    ```sh
    node scripts/interact.js
 ## Project Images
-![Command-line Output](img/Screenshot 2024-01-07 230653.png)
-![image description](relative/path/in/repository/to/image.svg)
-![image description](relative/path/in/repository/to/image.svg)
-![image description](relative/path/in/repository/to/image.svg)
+![Command-line Output](img/cli.png)
+![Monitoring on Alchemy](img/alchemy.jpeg)
+![Etherscan deployment](img/etherscandeployment.jpeg)
+![Smart Contracts Overview](img/etherscanoverview.jpeg)
 ## License
 
 Distributed under the ISC License. See LICENSE for more information.
