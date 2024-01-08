@@ -71,7 +71,11 @@ To run the smart contract locally and interact with it:
 3. Interact with the deployed contract:
    ```sh
    node scripts/interact.js
-
+## Project Images
+![](relative/path/in/repository/to/image.svg)
+![image description](relative/path/in/repository/to/image.svg)
+![image description](relative/path/in/repository/to/image.svg)
+![image description](relative/path/in/repository/to/image.svg)
 ## License
 
 Distributed under the ISC License. See LICENSE for more information.
